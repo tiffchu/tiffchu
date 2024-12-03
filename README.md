@@ -1,4 +1,4 @@
-profile readme in the making
+still in the making
 
 ---
 
@@ -10,7 +10,7 @@ profile readme in the making
   - Tetris
 
 #### 📫 **Let’s Connect!** 
-- 🌐 [Portfolio](https://tetr.io/) (also in the making)  
+- 🌐 [Portfolio](https://tetr.io/) (also in progress)  
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
 ---
