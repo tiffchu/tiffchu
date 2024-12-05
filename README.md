@@ -10,7 +10,7 @@ still in the making
   - Tetris
 
 #### 📫 **Let’s Connect!** 
-- 🌐 [Portfolio](https://tetr.io/) (also in progress)  
+- 🙅‍♀️ [Portfolio](https://tetr.io/) (also in progress)  <!---🌐-->
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
 ---
