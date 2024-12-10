@@ -6,7 +6,7 @@ still in the making
 #### 🚀 **Current Interests**: 
   - Learning to do one muscle up
   - Exploring cognitive modelling and natural language processing
-  - Perfecting my Cantonese
+  - Fixing my Cantonese
   - Tetris
 
 #### 📫 **Let’s Connect!** 
