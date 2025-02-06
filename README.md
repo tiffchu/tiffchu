@@ -4,8 +4,8 @@ still in the making
 
 ## Hello, I'm Tiffany 💃 
 #### 🚀 **Current Interests**: 
-  - Learning to do one muscle up
-  - Exploring cognitive modelling and natural language processing
+  - Trying to do one muscle up
+  - Learning about cognitive modelling research and natural language processing
   - Fixing my Cantonese
   - Tetris
 
