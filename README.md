@@ -10,7 +10,7 @@ still in the making
   - Tetris
 
 #### 📫 **Let’s Connect!** 
-- 🙅‍♀️ [Portfolio](https://ubereats.com/feed?promoCode=eats-tiffanyc22682ue) (also in progress)  <!---🌐-->
+- 🙅‍♀️ [Portfolio](https://tiffchu.github.io/personal_website/) (also in progress)  <!---🌐-->
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
 ---
