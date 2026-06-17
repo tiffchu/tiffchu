@@ -1,5 +1,3 @@
-still in the making
-
 ---
 
 ## Hello, I'm Tiffany 💃 
@@ -10,7 +8,7 @@ still in the making
   - Tetris
 
 #### 📫 **Let’s Connect!** 
-- 🙅‍♀️ [Portfolio](https://tiffchu.github.io/) (also in progress)  <!---🌐-->
+- 🌐 [Portfolio](https://tiffchu.github.io/) (in progress)  <!---🌐-->
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
 ---
