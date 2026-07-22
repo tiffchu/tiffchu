@@ -3,12 +3,12 @@
 ## Hello, I'm Tiffany 💃 
 #### 🚀 **Current Interests**: 
   - Trying to do one muscle up
-  - Learning about cognitive modelling research and natural language processing
-  - Fixing my Cantonese
+  - Cognitive modelling, game theory, and natural language processing
+  - Improving my Cantonese
   - Tetris
 
 #### 📫 **Let’s Connect!** 
-- 🌐 [Portfolio](https://tiffchu.github.io/) (in progress)  <!---🌐-->
+- 🌐 [Portfolio](https://tiffchu.github.io/) <!---(in progress)  🌐-->
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
 ---
