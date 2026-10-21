@@ -1,13 +1,13 @@
 ---
 
 ## Hello, I'm Tiffany 💃 
-#### 🚀 **Current Interests**: 
+#### **Current interests**: 
   - Trying to do one muscle up
   - Cognitive modelling, game theory, and natural language processing
   - Improving my Cantonese
   - Collecting rocks
 
-#### 📫 **Let’s connect!** 
+#### **Let’s connect!** 
 - 🌐 [Portfolio](https://tiffchu.github.io/) <!---(in progress)  🌐-->
 - ✉️ [Email Me](mailto:tiffanymchu@gmail.com)
 
